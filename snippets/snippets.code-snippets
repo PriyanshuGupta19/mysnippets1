@@ -1,0 +1,9 @@
+{
+    "Basic Express Server": {
+        "prefix": "!expressserver",
+        "body": [
+
+        ],
+        "description": "Basic express server"
+    }
+}

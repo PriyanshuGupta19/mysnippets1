@@ -1,0 +1,26 @@
+{
+  "name": "mysnippets",
+  "displayName": "mySnippets",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "PriyanshuGupta2193",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
