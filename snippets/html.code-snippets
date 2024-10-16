@@ -1,6 +1,6 @@
 {
     "Basic Express Server": {
-        "prefix": "!hiBro",
+        "prefix": "@hiBro",
         "body": [
             "How is it going"
         ],
