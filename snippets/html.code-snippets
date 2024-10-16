@@ -1,0 +1,10 @@
+{
+    "Basic Express Server": {
+        "prefix": "!hiBro",
+        "body": [
+            "How is it going"
+        ],
+        "description": "Basic html"
+    }
+}
+

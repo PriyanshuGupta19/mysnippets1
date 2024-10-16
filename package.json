@@ -9,10 +9,8 @@
     "url": "https://github.com/PriyanshuGupta19/mysnippets1"
   },
   "keywords": [
-    "mySnippets",
-    "Snippets",
-    "snippets",
-    "myExtention"
+    "myOwnSnippets",
+    "myownsnippets"
   ],
   "engines": {
     "vscode": "^1.94.0"
@@ -26,6 +24,10 @@
       {
         "language": "javascript",
         "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html.code-snippets"
       }
     ]
   }
