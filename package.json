@@ -1,16 +1,19 @@
 {
-  "name": "myownsnippets",
-  "displayName": "myOwnSnippets",
+  "name": "721colorthemes",
+  "displayName": "721-Color-Themes",
   "description": "",
   "version": "0.3.0",
-  "publisher": "PriyanshuGupta2193",
+  "publisher": "721-Color-Themes",
   "repository": {
     "type": "git",
     "url": "https://github.com/PriyanshuGupta19/mysnippets1"
   },
   "keywords": [
     "myOwnSnippets",
-    "myownsnippets"
+    "myownsnippets",
+    "721colorthemes",
+    "721-Color-Themes",
+    "721-color-themes"
   ],
   "engines": {
     "vscode": "^1.94.0"
