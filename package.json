@@ -10,10 +10,7 @@
   },
   "keywords": [
     "myOwnSnippets",
-    "myownsnippets",
-    "721colorthemes",
-    "721-Color-Themes",
-    "721-color-themes"
+    "myownsnippets"
   ],
   "engines": {
     "vscode": "^1.94.0"
